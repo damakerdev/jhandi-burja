@@ -1,4 +1,4 @@
-# jhandiBurja
+# jhandiBurja 🚀
 
 **jhandiBurja** game that I have made using html, css and js.
 
