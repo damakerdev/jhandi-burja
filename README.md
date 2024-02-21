@@ -6,4 +6,4 @@
 
 Play it on [itch.io](https://damekstudios.itch.io/jhandi-burja)
 
-Made with
+Made with :heart: by beKool.sh
